@@ -37,5 +37,7 @@ merger.close()
 
 print(f"PDFs merged successfully into {output_filename}")
 
+# It auto detects all pdfs in the directory
+
 # to run:
 # python merge_pdfs.py
